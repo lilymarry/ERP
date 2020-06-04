@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>交期由远到近</string>
+	<string>交期由近到远</string>
+	<string>下单日期由远到近</string>
+	<string>下单日期由近到远</string>
+	<string>交期由多到少</string>
+	<string>交期由少到多</string>
+	<string>平方数由大到小</string>
+	<string>平方数由小到大</string>
+	<string>状态由远到近</string>
+	<string>状态由近到远</string>
+</array>
+</plist>
